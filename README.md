@@ -12,10 +12,11 @@ Analyze historical e-commerce transaction data to understand sales performance, 
 
 ## Dataset
 
-- **Source file:** `data/online_retail_II.xlsx`
-- **Description:** Online retail transaction data covering two time periods across two Excel sheets.
-- **Original file:** Read-only — never modified during analysis.
-
+- **Source:** https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii
+- **Description:** Online retail transaction data covering two periods across two Excel sheets.
+- **Original file:** `online_retail_II.xlsx` — read-only; never modified during analysis.
+- **Citation:** Chen, D. (2012). *Online Retail II*. UCI Machine Learning Repository.
+  https://doi.org/10.24432/C5CG6D
 ---
 
 ## Project Structure
